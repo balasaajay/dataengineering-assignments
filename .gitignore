@@ -127,3 +127,6 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+week1_hw/hw-partB/de-zoomcamp-ga-*.json
+*.tfstate
+*.tfstate.backup
