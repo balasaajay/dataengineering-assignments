@@ -1,1 +1,1 @@
-# de-zc
+# Data engineering Zoomcamp assignments
